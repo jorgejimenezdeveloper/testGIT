@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sdfasd
+=======
+hola mundo hi
+>>>>>>> parent of d9a8717 (Update archivo3.txt)
